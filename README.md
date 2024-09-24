@@ -1,0 +1,1 @@
+# plugins-product-categories-designs-for-woocommerce
