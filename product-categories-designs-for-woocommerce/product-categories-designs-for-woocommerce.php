@@ -9,7 +9,7 @@
  * Domain Path: /languages/
  * Requires Plugins: woocommerce
  * WC tested up to: 8.7.0
- * Version: 1.5
+ * Version: 1.5.1
  * WC requires at least: 3.0
  *
  * @package Product Categories Designs for WooCommerce
@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'PCDFWOO_VERSION' ) ) {
-	define( 'PCDFWOO_VERSION', '1.5' ); // Version of plugin
+	define( 'PCDFWOO_VERSION', '1.5.1' ); // Version of plugin
 }
 if( ! defined( 'PCDFWOO_NAME' ) ) {
 	define( 'PCDFWOO_NAME', 'Product Categories Designs for WooCommerce' ); // Name of plugin

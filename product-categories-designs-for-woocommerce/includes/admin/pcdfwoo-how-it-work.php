@@ -60,7 +60,7 @@ function pcdfwoo_designs_page() { ?>
 									<tr>
 										<td>
 											<p><?php esc_html_e('Boost design and best solution for your website.', 'product-categories-designs-for-woocommerce'); ?></p> <br/>
-											<a class="button button-primary button-orange" href="<?php echo PCDFWOO_SITE_LINK; ?>/wordpress-plugin/product-categories-designs-woocommerce/?utm_source=WP&utm_medium=Product-Category&utm_campaign=Check-Designs-Solutions" target="_blank"><?php esc_html_e('Grab Now', 'product-categories-designs-for-woocommerce'); ?></a>
+											<a class="button button-primary button-orange" href="<?php echo PCDFWOO_SITE_LINK; ?>/pricing/?utm_source=WP&utm_medium=Product-Category&utm_campaign=Check-Designs-Solutions" target="_blank"><?php esc_html_e('Grab Now', 'product-categories-designs-for-woocommerce'); ?></a>
 										</td>
 									</tr>
 								</tbody>
@@ -171,7 +171,7 @@ function pcdfwoo_designs_page() { ?>
 								<li>Fully responsive</li>
 							</ul>
 							<div class="upgrade-to-pro">Gain access to <strong>Product Categories Designs for WooCommerce</strong></div>
-							<a class="button button-primary wpos-button-full button-orange" href="<?php echo PCDFWOO_SITE_LINK; ?>/wordpress-plugin/product-categories-designs-woocommerce/?utm_source=WP&utm_medium=Product-Category&utm_campaign=Check-Designs-Solutions" target="_blank"><?php esc_html_e('Grab Now', 'product-categories-designs-for-woocommerce'); ?></a>
+							<a class="button button-primary wpos-button-full button-orange" href="<?php echo PCDFWOO_SITE_LINK; ?>/pricing/?utm_source=WP&utm_medium=Product-Category&utm_campaign=Check-Designs-Solutions" target="_blank"><?php esc_html_e('Grab Now', 'product-categories-designs-for-woocommerce'); ?></a>
 						</div><!-- .inside -->
 					</div><!-- #general -->
 				</div><!-- .meta-box-sortables -->
