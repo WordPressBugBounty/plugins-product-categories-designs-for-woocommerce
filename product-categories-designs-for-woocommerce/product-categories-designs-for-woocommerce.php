@@ -3,13 +3,13 @@
  * Plugin Name: Product Categories Designs for WooCommerce
  * Plugin URI: https://www.essentialplugin.com/wordpress-plugin/product-categories-designs-woocommerce/
  * Description: Display WooCommerce product categories designs with grid and silder view. Also work with Gutenberg shortcode block.
- * Author: WP OnlineSupport, Essential Plugin
+ * Author: Essential Plugin
  * Author URI: http://www.essentialplugin.com/
  * Text Domain: product-categories-designs-for-woocommerce
  * Domain Path: /languages/
  * Requires Plugins: woocommerce
- * WC tested up to: 8.7.0
- * Version: 1.5.1
+ * WC tested up to: 9.8.5
+ * Version: 1.5.2
  * WC requires at least: 3.0
  *
  * @package Product Categories Designs for WooCommerce
@@ -21,7 +21,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 
 if( ! defined( 'PCDFWOO_VERSION' ) ) {
-	define( 'PCDFWOO_VERSION', '1.5.1' ); // Version of plugin
+	define( 'PCDFWOO_VERSION', '1.5.2' ); // Version of plugin
 }
 if( ! defined( 'PCDFWOO_NAME' ) ) {
 	define( 'PCDFWOO_NAME', 'Product Categories Designs for WooCommerce' ); // Name of plugin

@@ -1,10 +1,10 @@
 ﻿=== Product Categories Designs for WooCommerce ===
-Contributors: wponlinesupport, anoopranawat, pratik-jain, piyushpatel123, ridhimashukla, patelketan
+Contributors: essentialplugin
 Tags: categories designs, categories slider, categories grid, WooCommerce categories designs, WooCommerce categories slider
 Requires at least: 4.0
-WC tested up to: 8.7.0 
-Tested up to: 6.7
-Stable tag: 1.5.1
+WC tested up to: 9.8.5
+Tested up to: 6.8.1
+Stable tag: 1.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -155,6 +155,9 @@ Also work with Gutenberg shortcode block.
 3. Shortcodes and how to display
 
 == Changelog ==
+
+= 1.5.2 (15, May 2025) =
+* [*] Check compatibility with WordPress version 6.8.1
 
 = 1.5.1 (11, Nov 2024) =
 * [*] Check compatibility to WordPress version 6.7
