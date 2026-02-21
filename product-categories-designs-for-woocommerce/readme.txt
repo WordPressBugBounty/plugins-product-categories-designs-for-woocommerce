@@ -3,7 +3,7 @@ Contributors: essentialplugin
 Tags: categories designs, categories slider, categories grid, WooCommerce categories designs, WooCommerce categories slider
 Requires at least: 4.0
 WC tested up to: 9.8.5
-Tested up to: 6.8.1
+Tested up to: 6.9.1
 Stable tag: 1.5.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
